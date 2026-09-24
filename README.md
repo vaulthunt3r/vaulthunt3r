@@ -1,24 +1,40 @@
-# 👋 Hi! I'm a broke, enthusiastic Vibe Coder
+# 👋 Hi, I'm vaulthunt3r
 
-### 🧑‍💻 About Me
-I have zero formal coding skills, a $0.00 budget, and a massive amount of enthusiasm. 
+I build small tools, experiments, and open-source projects driven by curiosity and real-world problems.
 
-I don't write code; I collaborate with **Qwen Coder** to bring my ideas to life. I know this isn't "professional programmer" level, and I'm totally okay with that. My goal isn't to master complex algorithms or data structures. My goal is to experience the pure joy of seeing something I imagined actually work on a screen, without the headache of traditional learning curves.
+### 🛠 What I Build
 
-I am the Product Manager, the Visionary, and the Chief Prompt Officer of my own tiny projects.
+* 🔧 Browser extensions and developer tools
+* 📦 Small utilities that solve specific problems
+* 🧪 Experiments and prototypes
+* 🌐 Privacy-focused and local-first software
+* ✨ Projects built to be useful, simple, and practical
 
-### 🛠 My "Zero-Budget" Stack
-- 🧠 **Qwen Coder** — My free, tireless, and infinitely patient senior developer.
-- 💻 **VS Code / Browser** — Where the magic (and copy-pasting) happens.
-- 💸 **Budget**: $0.00 (Powered entirely by enthusiasm, stubbornness, and free Wi-Fi).
-- 🐛 **Methodology**: Copy → Paste → Pray → Ask AI to fix the error → Repeat.
-- 🎵 **Lo-Fi Beats** — Mandatory soundtrack to keep the vibes high.
+### 🚀 Current Focus
 
-### 🚀 What I'm doing right now
-- ✨ Making things work without fully understanding *how* they work under the hood.
-- 🎉 Celebrating small wins (like a button that actually clicks or a page that doesn't crash).
-- 🚫 Actively avoiding 10-hour tutorials in favor of "just make it work" prompts.
-- 🛠 Building silly, fun, or useful little things just because I can.
+I'm interested in turning ideas into working software, experimenting with new approaches, and improving projects through real-world use.
+
+I care about:
+
+* **Privacy** — keep data local whenever possible
+* **Simplicity** — fewer unnecessary dependencies and moving parts
+* **Practicality** — solve the actual problem first
+* **Open source** — build in public and share what works
+
+### 📌 Projects
+
+I'm currently working on a collection of small tools and experiments, including browser extensions and utilities for working with digital content.
+
+Some projects start as simple ideas and grow through iteration. That's part of the fun.
+
+### 🤝 Let's Connect
+
+If you're interested in building useful things, experimenting with ideas, or improving open-source projects, feel free to reach out.
+
+---
+
+> Build it. Use it. Improve it.
+
 
 ### 📊 GitHub Stats
 <p align="center">
