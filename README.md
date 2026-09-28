@@ -57,4 +57,4 @@ But if you are a fellow enthusiast who just wants to build cool stuff without th
 ---
 > *"It doesn't have to be elegant. It just has to work."* — My daily mantra.
 
-⚠️ **Disclaimer:** All code in my repositories is AI-assisted. If you find a bug, please don't open an issue. Just whisper to the universe, and I'll ask Qwen to fix it.
+⚠️ **Disclaimer:** All code in my repositories is AI-assisted. If you find a bug, please don't open an issue. Just whisper to the universe, and I'll ask AI to fix it.
